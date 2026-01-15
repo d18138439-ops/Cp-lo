@@ -1,7 +1,7 @@
 {
   "name": "ugxdev",
   "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
-  "logo": "https://files.catbox.moe/8e2qqw.jpg",
+  "logo": "https://drive.google.com/file/d/1Qw0vPQPPpY4IeexduLzAZocK_S8MevfM/view?usp=drivesdk",
   "keywords": [
     "text-video",
     "video-extract",
@@ -33,7 +33,7 @@
     },
     "CREDIT": {
       "description": "𝙀𝙣𝙩𝙚𝙧 𝘾𝙧𝙚𝙙𝙞𝙩 𝙉𝙖𝙢𝙚 𝙞𝙣 𝙖𝙡𝙢𝙤𝙨𝙩 6-8 𝙡𝙚𝙩𝙩𝙚𝙧𝙨",
-      "value": "ITsGOLU",
+      "value": "SANU",
       "required": true
     }
   },
