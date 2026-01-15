@@ -113,13 +113,14 @@ async def progress_bar(current, total, reply, start):
         f"├ ♻️  𝗣𝗥𝗢𝗖𝗘𝗦𝗦𝗘𝗗 ➤ | {hrb(current)} \n"
         f"├ 📦  𝗦𝗜𝗭𝗘 ➤ | {hrb(total)} \n"
         f"├ ⏰  𝗘𝗧𝗔 ➤ | {hrt(eta_seconds, 1)}\n\n"
-        f"╰─═══ ** 𝐈𝐓'𝐬𝐆𝐎𝐋𝐔 **═══─╯"
+        f"╰─═══ ** ♥SANU♥ **═══─╯"
     )
 
     try:
         await reply.edit(msg)
     except FloodWait as e:
         time.sleep(e.x)
+
 
 
 
